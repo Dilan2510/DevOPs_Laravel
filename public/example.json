@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Jorge",
+        "last_name": "Cordoba",
+        "email": "JorgeCordoba54@gmail.com",
+        "phone": 3016442587,
+        "address": "Calle 42 # 15-34",
+        "position": "Arquitecto",
+        "salary": 4000,
+        "skills": "Manejo planos"
+    },
+    {
+        "id": 2,
+        "name": "Luis",
+        "last_name": "Acosta",
+        "email": "luisacosta59@gmail.com",
+        "phone": 3143802548,
+        "address": "Calle 11 Sur # 23 A BIS  50.",
+        "position": "ING.Civil",
+        "salary": 1000,
+        "skills": "Mantenimiento"
+    },
+    {
+        "id": 3,
+        "name": "William",
+        "last_name": "Smit",
+        "email": "WilliamSmit@hotmail.com",
+        "phone": 3042584125,
+        "address": "Avenida el dorado # 68D - 35.",
+        "position": "psicologia",
+        "salary": 35000,
+        "skills": "Comunicacion"
+    },
+    {
+        "id": 4,
+        "name": "Alejandro",
+        "last_name": "Niño",
+        "email": "Alejandronino87@hotmail.com",
+        "phone": 3042584125,
+        "address": "avenida carrera 19 # 127 d -55.",
+        "position": "psicologia",
+        "salary": 1300,
+        "skills": "Comunicacion"
+    },
+    {
+        "id": 5,
+        "name": "Brandon",
+        "last_name": "Garzon",
+        "email": "brandondilangg@hotmail.com",
+        "phone": 3042584125,
+        "address": "AC 13 # 21 - 91.",
+        "position": "psicologia",
+        "salary": 8000,
+        "skills": "Comunicacion"
+    },
+    {
+        "id": 6,
+        "name": "Edgar",
+        "last_name": "Gomez",
+        "email": "Edgargomez1405t@hotmail.com",
+        "phone": 3042584125,
+        "address": "Carrera 53 # 70 - 86.",
+        "position": "psicologia",
+        "salary": 1500,
+        "skills": "Comunicacion"
+    },
+    {
+        "id": 7,
+        "name": "Nicolas",
+        "last_name": "Sanchez",
+        "email": "Nicolassanchez_09@hotmail.com",
+        "phone": 3042584125,
+        "address": "CALLE 35 # 33-09.",
+        "position": "psicologia",
+        "salary": 1500,
+        "skills": "Comunicacion"
+    },
+    {
+        "id": 8,
+        "name": "Felipe",
+        "last_name": "Gomez",
+        "email": "felipeGomez13@gamil.com",
+        "phone": 3042584125,
+        "address": "KR 23 # 35 - 48.",
+        "position": "psicologia",
+        "salary": 4900,
+        "skills": "Comunicacion"
+    }
+]
